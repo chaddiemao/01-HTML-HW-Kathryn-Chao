@@ -15,7 +15,7 @@ Open 01-HTML-GIT-CSS file in VSCode to see HTML, CSS and read me files
 
 ## Usage 
 
-Open HTML file in google chrome to view site or use link provided to view site
+Open HTML file in google chrome to view site or use link provided to view read me
 
 
 ## Credits
